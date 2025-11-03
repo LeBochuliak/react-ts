@@ -1,5 +1,8 @@
-import css from '../css/App.module.css'
-import Product from './Product'
+import css from './App.module.css'
+import Product from '../Product/Product'
+
+// const myKey = import.meta.env.VITE_API_KEY;
+
 
 export default function App() {
   return (

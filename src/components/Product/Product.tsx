@@ -1,4 +1,4 @@
-import css from '../css/Product.module.css';
+import css from './Product.module.css';
 
 interface ProductProps {
   name: string;
